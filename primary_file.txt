@@ -6,4 +6,6 @@ We now Edited the file
 
 Edit From the Branch new feature -- woahh I EDITED this
 
+<<<<<<< HEAD
 I'm Dominating
+
